@@ -1,0 +1,19 @@
+## Content Breakdown
+
+### Introduction
+- Overview of Large Language Models
+- Common belief about AI accuracy
+
+### Main Claim
+- LLMs do not always provide factually correct answers
+
+### Supporting Arguments
+- Training based on probability, not truth
+- Hallucination issues
+- Bias inherited from data
+
+### Counter Perspective
+- LLMs are useful when supervised and validated
+
+### Conclusion
+- Human oversight is essential for reliable AI usage
