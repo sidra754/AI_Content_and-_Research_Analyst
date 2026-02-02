@@ -1,0 +1,11 @@
+## Do Large Language Models Always Tell the Truth?
+
+Large Language Models (LLMs) like GPT are powerful tools capable of generating human-like text. They are widely used in education, customer support, healthcare, and research. However, a common misconception is that these models always provide accurate and reliable information.
+
+LLMs are trained on massive datasets collected from books, websites, and other textual sources. While this allows them to produce fluent responses, it does not guarantee factual correctness. The models do not understand truth in a human sense; instead, they predict the most likely sequence of words based on patterns in data.
+
+One major challenge with LLMs is hallucination. Hallucination occurs when a model generates information that sounds confident but is factually incorrect or entirely made up. This often happens when the model lacks sufficient training data or when a question is ambiguous.
+
+Another issue is bias. Since LLMs learn from human-generated content, they can inherit biases present in the data. This can affect responses related to gender, culture, geography, or opinions.
+
+Despite these limitations, LLMs can be highly effective when used responsibly. Proper validation, clear prompts, and human oversight significantly improve reliability. Understanding the strengths and weaknesses of these models is essential for their safe and effective deployment.
