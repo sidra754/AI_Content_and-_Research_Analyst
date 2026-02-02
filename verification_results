@@ -1,0 +1,17 @@
+## Claim Verification Results
+
+### Claim 1
+Statement: LLMs always produce factually accurate answers  
+Status:  False  
+Reason: LLMs generate responses based on probability, not verified facts.
+
+### Claim 2
+Statement: AI hallucination is a rare issue  
+Status:  False  
+Reason: Hallucinations are a known and documented limitation of LLMs.
+
+### Claim 3
+Statement: Bias in AI systems comes only from user prompts  
+Status:  False  
+Reason: Bias primarily originates from training data, not just user input.
+
